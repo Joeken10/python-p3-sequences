@@ -5,4 +5,6 @@ def print_fibonacci(n):
         print([])  # Return an empty list for non-positive lengths
         return
     
-   
+    if n == 1:
+        print([0])  # Return only the first Fibonacci number
+        return
