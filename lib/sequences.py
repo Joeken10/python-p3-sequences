@@ -17,6 +17,6 @@ def print_fibonacci(n):
 
 # Test cases
 print_fibonacci(0)  # Expected output: []
-print_fibonacci(1)  # Expected output: [0]
+print_fibonacci(1)  
 print_fibonacci(2)  
 print_fibonacci(10) 
