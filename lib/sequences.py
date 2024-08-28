@@ -15,7 +15,7 @@ def print_fibonacci(n):
     
     print(fib_list)
 
-# Test cases
+
 print_fibonacci(0)  
 print_fibonacci(1)  
 print_fibonacci(2)  
